@@ -1,4 +1,5 @@
-# Albums I Really Like
+### Albums That I Like *A Lot*
+
 <img src="/images/10chart.png width="400" height="300" />
 
 Not much to say, but this **always** updates.
