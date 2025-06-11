@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Main Page
+title: Space Hub
+<link rel="shortcut icon" href="/Images/favicon.ico" type="image/ico">
 ---
 
 # Space Hub
@@ -20,4 +21,3 @@ Hello, welcome to the very early stages of my website. You may know me through m
 - [Rate Your Music](https://rateyourmusic.com/~DaPhatPlanet)
 - [Spotify](https://open.spotify.com/user/31e3bcj43uyvflygsfmd6xrag6cm)
 
-<link rel="shortcut icon" href="/Images/favicon.ico" type="image/ico">
