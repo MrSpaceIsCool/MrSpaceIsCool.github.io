@@ -8,6 +8,9 @@ title: Space Hub
 
 Hello, welcome to the very early stages of my website. You may know me through many mediums of social media, but they all link to this website :b
 
+Shout-out to [Tirimid](https://github.com/tirimid) for helping me out with this site.
+Check out their amazing website here: [tirimid.net](https://tirimid.net)
+
 ## Get to Know Me
 
 ### Socials
