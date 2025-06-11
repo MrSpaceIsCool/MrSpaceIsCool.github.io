@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Actual Album Reviews Of Mine
 
 Here is where I'll post any long paragraph reviews that I feel is worthy of being here.
