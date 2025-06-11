@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Main Page
 ---
 
-# this is my website
+# Space Hub
 
-Here is a paragraph with some text.
+Hello, welcome to the very early stages of my website. You may know me through many mediums of social media, but they all link to this website :b
 
 Here's a numbered list or something:
 
