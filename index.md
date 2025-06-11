@@ -21,3 +21,7 @@ Hello, welcome to the very early stages of my website. You may know me through m
 - [Rate Your Music](https://rateyourmusic.com/~DaPhatPlanet)
 - [Spotify](https://open.spotify.com/user/31e3bcj43uyvflygsfmd6xrag6cm)
 
+### Stuff Directly Linked to My Reviews
+
+- [Strong 10 Chart](/stuff_reviews/Strong_10_Chart.md)
+
