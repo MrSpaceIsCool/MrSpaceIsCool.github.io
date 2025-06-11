@@ -1,1 +1,6 @@
-theme: jekyll-theme-hacker
+remote_theme: BDHU/minimalist
+
+logo: /images/miiLogo.png
+
+email: youraveragemusicreviewer@gmail.com
+description: I review music and attempt to code.
