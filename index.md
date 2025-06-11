@@ -9,13 +9,11 @@ Hello, welcome to the very early stages of my website. You may know me through m
 
 ## Get to Know Me
 
+### Socials
+- [Discord](https://discord.com/users/759360828767600680)
+
+
 ### Music Reviewing Platforms I Use
 - [Album Of The Year](https://www.albumoftheyear.org/user/mrspaceiscool/)
 - [Last.fm](https://www.last.fm/user/IFeelLikePablo1)
 - [Rate Your Music](https://rateyourmusic.com/~DaPhatPlanet)
-
-
-
-In normal text, you have *italics*, **bold**, `code`, etc. search it up... man......
-
-There's also other stuff like tables...... but you will get that when you need it......
