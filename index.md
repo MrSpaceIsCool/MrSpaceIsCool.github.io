@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # this is my website
 
 Here is a paragraph with some text.
