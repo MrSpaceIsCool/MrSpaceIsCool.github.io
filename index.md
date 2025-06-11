@@ -24,4 +24,5 @@ Hello, welcome to the very early stages of my website. You may know me through m
 ### Stuff Directly Linked to My Reviews
 
 - [Strong 10 Chart](stuff_reviews/Strong_10_Chart.md)
+- [My Actual Reviews](stuff_reviews/Actual_Reviews.md)
 
