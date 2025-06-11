@@ -11,4 +11,4 @@ The trick is to just click on the album you want to see the review for :).
 
 ## Albums:
 
-- [Ants From Up There - Black Country, New Road](/album_reviews/AFUT.md)
+- [Ants From Up There - Black Country, New Road](/stuff_reviews/album_reviews/AFUT.md)
