@@ -1,6 +1,6 @@
 ## Albums That I Like *A Lot*
 
-<img src="/images/10chart.png width="400" height="300" />
+<img src="/images/10chart.png" width="400" height="300" />
 
 Not much to say, but this **always** updates.
 Keep an eye out for said updates if you're interested.
