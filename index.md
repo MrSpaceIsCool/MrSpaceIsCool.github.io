@@ -19,3 +19,5 @@ Hello, welcome to the very early stages of my website. You may know me through m
 - [Last.fm](https://www.last.fm/user/IFeelLikePablo1)
 - [Rate Your Music](https://rateyourmusic.com/~DaPhatPlanet)
 - [Spotify](https://open.spotify.com/user/31e3bcj43uyvflygsfmd6xrag6cm)
+
+<link rel="shortcut icon" href="/Images/favicon.ico" type="image/ico">
