@@ -7,30 +7,14 @@ title: Main Page
 
 Hello, welcome to the very early stages of my website. You may know me through many mediums of social media, but they all link to this website :b
 
-Here's a numbered list or something:
+## Get to Know Me
 
-1. Lorem
-2. Ipsum
-3. Dolor
-4. Sit
+### Music Reviewing Platforms I Use
+- [Album Of The Year](https://www.albumoftheyear.org/user/mrspaceiscool/)
+- [Last.fm](https://www.last.fm/user/IFeelLikePablo1)
+- [Rate Your Music](https://rateyourmusic.com/~DaPhatPlanet)
 
-here's an unordered list:
 
-* lorem
-* ipsum
-* dolor
-
-- also
-- like
-- this
-
-# big header
-
-## smaller header
-
-### smallerer header
-
-#### it's arbitrary depth
 
 In normal text, you have *italics*, **bold**, `code`, etc. search it up... man......
 
