@@ -1,4 +1,4 @@
-# Albums That I Like *A Lot*
+## Albums That I Like *A Lot*
 
 <img src="/images/10chart.png width="400" height="300" />
 
