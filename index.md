@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Space Hub
-<link rel="shortcut icon" href="/Images/favicon.ico" type="image/ico">
+<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
 ---
 
 # Space Hub
