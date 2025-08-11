@@ -15,6 +15,7 @@ Check out their amazing website here: [tirimid.net](https://tirimid.net)
 ### Socials
 - [Discord](https://discord.com/users/759360828767600680)
 - [Github](https://github.com/MrSpaceIsCool)
+- [Spacehey](https://spacehey.com/mrspaceiscool)
 
 
 ### Music Reviewing Platforms I Use
