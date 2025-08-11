@@ -16,7 +16,7 @@ Check out their amazing website here: [tirimid.net](https://tirimid.net)
 - [Discord](https://discord.com/users/759360828767600680)
 - [Github](https://github.com/MrSpaceIsCool)
 - [Spacehey](https://spacehey.com/mrspaceiscool)
-
+- [Buy Me A Coffee](https://buymeacoffee.com/mrspaceiscool)
 
 ### Music Reviewing Platforms I Use
 - [Album Of The Year](https://www.albumoftheyear.org/user/mrspaceiscool/)
