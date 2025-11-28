@@ -6,6 +6,7 @@ Not much to say, but this **always** updates.
 Keep an eye out for said updates if you're interested.
     
 Below is a list of the albums present in the topster, starting from the top left up until the bottom right:
+
     Black Country, New Road - Ants From Up There
     Godspeed You! Black Emperor - Live at CAT on 2002-01-25
     Dead Calm - Keep Moving
