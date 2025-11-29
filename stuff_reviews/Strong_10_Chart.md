@@ -31,7 +31,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Boris - Pink
     Jim O'Rourke - Live at Japan 2002.9.16
     Deafheaven - Sunbather
-    Naked City - Torture Garden-Leng Tch'e
+    Naked City - Torture Garden (Be careful when searching up)
     Injury Reserve - By the Time I Get to Phoenix
     Sprain - The Lamb as Effigy
     shearling - Motherfucker, I am Both: "Amen" and "Hallelujah"...
