@@ -90,7 +90,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Hella - Hold Your Horse Is
     Boldy James - Manger on McNichols
     Yes - Close to the Edge
-    Oneohtrix Point Never - Replica
+    Pig Destroyer - Terrifyer
     Hum - Downward Is Heavenward
     WillyRodriguezWasTaken - wetdream
     Makoto Matsushita - FIRST LIGHT (2018 Remaster)
