@@ -17,6 +17,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Godspeed You! Black Emperor - Live at L'Échangeur: January 22, 2002
     Swans - Deliquescence
     Godspeed You! Black Emperor - Paradiso, Amsterdam 2002-04-18
+    
     Have a Nice Life - Deathconsciousness
     Fishmans - 98.12.28 Otokotachino Wakare (Live)
     Mount Eerie - A Crow Looked At Me
@@ -26,7 +27,8 @@ Below is a list of the albums present in the topster, starting from the top left
     Nujabes - Modal Soul
     Lianne La Havas - Lianne La Havas
     Jeff Buckley - Cabaret Metro, Chicago, IL, May 13, 1995 (Live)
-    Jeff Buckley - Jeff Buckley Grace
+    Jeff Buckley - Grace
+    
     Boris - Pink
     Jim O'Rourke - Live at Japan 2002.9.16
     Deafheaven - Sunbather
@@ -37,6 +39,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Linkin Park - Meteora
     Hum - You'd Prefer an Astronaut
     Stevie Wonder - Songs in the Key of Life
+    
     Stevie Wonder - Talking Book
     The Microphones - Microphones in 2020
     Alice Coltrane - Live at the Berkeley Community Theater 1972
@@ -47,6 +50,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Kendrick Lamar - To Pimp a Butterfly
     American Football - American Football
     Title Fight - Shed
+    
     what is your name? - the now now and never
     Cap'n Jazz - Analphabetapolothology
     Brave Little Abacus - Just Got Back from the Discomfort We're Alright
@@ -57,6 +61,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Black Country, New Road - The Lexington
     Sun Kil Moon - Benji
     Cameron Winter - Heavy Metal
+    
     Geese - 3D Country
     The Necks - Athenaeum, Homebush, Quay & Raab
     John Zorn - Naked City
@@ -67,6 +72,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Death Grips - Jenny Death
     birth day - Boyhood
     Quadeca - vanisher, horizon SCRAPER
+    
     Masayoshi Takanaka - Brasilian Skies
     Gustavo Cerati - Bocanada
     Tool - Lateralus
@@ -77,6 +83,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Sigur Rós - Ágætis byrjun
     Hesse Kassel - La Brea
     Charles Mingus - The Black Saint and the Sinner Lady
+    
     Four Tet - Rounds
     The Mars Volta - Frances the Mute
     Boredoms - Vision Creation Newsun
@@ -87,6 +94,7 @@ Below is a list of the albums present in the topster, starting from the top left
     Lamp - For Lovers
     La Monte Young - The Well-Tuned Piano
     Birchville Cat Motel - Sprang A Great Stallion Whose First Leap Sparked The Celestial Star
+    
     Hella - Hold Your Horse Is
     An Albatross - Blessphemy
     Confetti - weapon party
@@ -97,6 +105,7 @@ Below is a list of the albums present in the topster, starting from the top left
     The Angelic Process - Weighing Souls With Sand
     toe - For Long Tomorrow
     okgutta - GOD (B)LESS AMERICA
+    
     Galactic Hole - Piracies Menu
     R.A.P. Ferreira - The Truly Ancient and Original Lefthanded Styles of the Hoodwinkers and Penny Pinchers
     Lauryn Hill - Miseducation
